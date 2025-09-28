@@ -51,12 +51,13 @@ sympy==1.13.3
 tifffile==2025.5.26
 torch==2.7.0
 torchaudio==2.7.0
-torchvision==0.22.0+cpu
+torchvision==0.22.0
 tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.2
 ultralytics==8.3.146
 ultralytics-thop==2.0.14
 urllib3==2.4.0
+
 
 
